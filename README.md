@@ -10,7 +10,7 @@ sudo chmod 777 build.sh
 -----------------------------------------------------------------------------------------------------------
 
 
-1. Installl java and gradle if not yet installed on your machine:
+1. Install java and gradle if not yet installed on your machine:
 
 ```
 sudo apt-get -y update
