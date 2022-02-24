@@ -2,8 +2,9 @@
 # CS445-HW2
 
 -----------------------------------------------------------------------------------------------------------
-The build can be automated by running the build.sh script located in the same directory as this README.txt
+The build can be automated by running the build.sh script.
 ```
+cd CS445-HW2
 sudo chmod 777 build.sh
 ./build.sh
 ```
