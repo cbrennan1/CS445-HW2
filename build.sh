@@ -5,5 +5,5 @@ sudo apt-get -y install openjdk-17-jdk
 sudo apt-get install -y junit
 
 sudo snap install gradle --classic
-gradle clean build
-gradle jacocoTestReport
+./gradlew clean build
+./gradlew jacocoTestReport
