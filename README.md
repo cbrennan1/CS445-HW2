@@ -19,7 +19,7 @@ sudo apt-get -y install openjdk-17-jdk
 sudo snap install gradle --classic
 ```
 
-2. CD into the directory
+2. CD into the project directory if not already inside it
 ```
 cd CS445-HW2
 ```
